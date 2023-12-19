@@ -34,8 +34,8 @@ The Customer Transaction Analysis project uses data analytics for data-driven bu
 4.8 Sales vs Profit per Category
 
 ### 5. Sales Prediction
-Use the Pycaret library to compare models and predict Sales
+Use the Pycaret library to compare time-series models and predict sales. Because Pycaret offers a comprehensive time-series modeling solution. It evaluates numerous models with diverse metrics and identifies the optimal choice.
 ### 6. Customer Segmentation
-Customer Segmentation is the process of dividing customers into groups that are similar in several characteristics. In this project, I use unsupervised learning, particularly the K-means clustering method to perform this task. 
+Customer Segmentation is the process of dividing customers into groups that are similar in several characteristics. In this project, use unsupervised learning, particularly the K-means clustering method to perform this task. 
 ### 7. Conclusion
 ### 8. Recommendation
